@@ -16,9 +16,9 @@ Make a website for a fresh bread subscription box company called Daily Baker’s
 
 ### References
 ***Visual Studio Code with GitHub Integration for Web Development***
-https://www.youtube.com/watch?v=_WEyoLuuyYo
+- [Link](https://www.youtube.com/watch?v=_WEyoLuuyYo)
 
-***CP1406 – Web Design and Development Slides***
+*CP1406 – Web Design and Development Slides*
 - [Wireframe, Site map and Website elements](https://learn.jcu.edu.au/ultra/courses/_169646_1/outline/file/_7134017_1)
 
 - [Designing a Website – Planning, Goals, etc](https://learn.jcu.edu.au/ultra/courses/_169646_1/outline/file/_7134016_1)
