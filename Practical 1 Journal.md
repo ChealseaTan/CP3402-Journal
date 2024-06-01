@@ -15,8 +15,8 @@ For my startup business, I plan to make a website for a pet shop, that possible 
 Make a website for a fresh bread subscription box company called Daily Baker’s Box, so that possible clients can view subscription plans, learn about the bread process, contact the company, learn more about the company, etc through the website. 
 
 ### References
-***Visual Studio Code with GitHub Integration for Web Development***
-- [Link](https://www.youtube.com/watch?v=_WEyoLuuyYo)
+- [My Github Website](https://chealseatan.github.io/CP3402-Practical-1/)
+- [Visual Studio Code with GitHub Integration for Web Development](https://www.youtube.com/watch?v=_WEyoLuuyYo)
 
 *CP1406 – Web Design and Development Slides*
 - [Wireframe, Site map and Website elements](https://learn.jcu.edu.au/ultra/courses/_169646_1/outline/file/_7134017_1)
@@ -30,7 +30,6 @@ Make a website for a fresh bread subscription box company called Daily Baker’s
 - [Layouts](https://learn.jcu.edu.au/ultra/courses/_169646_1/outline/file/_7134021_1)
 
 - [Table and Forms](https://learn.jcu.edu.au/ultra/courses/_169646_1/outline/file/_7134022_1)
-
 
 ## Estimated Hours
 Spent 6 hours with re-learning, doing the practical and journaling.
