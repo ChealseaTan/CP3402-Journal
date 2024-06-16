@@ -10,7 +10,7 @@ I will also use its phpMyAdmin tool to easily manage the databases locally witho
 I also used some plugins to help me further understand about creating new fields. Like, giving options for the user to select their breads for their bundle. Since, that is one of the options I was planning for my website. Either I create a bread box for them to choose or they customize their own box.
 
 ### Screenshot Steps for Practical:
-Downloaded XAMPP and started running the Apache and MySQL
+Downloaded XAMPP and started running the Apache and MySQL.
 ![XAMPP Control Panel](images/1_XAMPP_Control_Panel.png)
 
 Downloaded and extracted WordPress files into XAMPP’s htdocs folder.
@@ -31,10 +31,10 @@ Create website information.
 Successfully created a WordPress localhost site.
 ![Database](images/7_Database.png)
 
-Used these two plugins to create bread object fields to be able to use search option
+Used these two plugins to create bread object fields to be able to use search option.
 ![Plugins](images/8_Plugins.png)
 
-A sample of the field feature.
+A sample of the bread field feature I did.
 ![Bread Field](images/9_Bread_Field.png)
 
 I did not finish till the search feature since I needed to plan on how to categorize the breads, but I was able to understand the gist of the feature.
