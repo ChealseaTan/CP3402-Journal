@@ -9,6 +9,7 @@ I read about GitHub Pages that allows users to publish and host their repository
 
 I had some difficulty with publishing my website with Github, since it is not showing the supposed result of my index.html, due to this I instead watched a video in Youtube to help me further understand the concept of integrating VS Code with Github and correctly publish my website. I learned that installing the correct extension would help me utilize VS Code for web development and on how to correctly configure my repository to accommodate GitHub Pages.
 
+### Assignment
 For my startup business, I plan to make a website for a pet shop, that possible clients can view and buy pet accessories, learn more about pet care, contact the pet shop for product concern, learn more about the pet shop, etc. through the website. For this part, I shall investigate current pet shop websites to inspire me on what I should include further for my website.
 
 ***Alternative idea*** 

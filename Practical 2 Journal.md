@@ -9,7 +9,7 @@ A static website is made up of pre-built files like HTML, CSS, and Javascript, w
 
 An advantage of statistic websites is that they are cheap, fast, simplistic, and easy to build & maintain from scratch. However, they are not scalable and lack personalization. Even though a dynamic website gives more overhead and is more complex to build than a static website, the user experience would be more personalized and allow users to interact with more functions. Paired with a CMS to handle the complex parts makes creating, editing, managing, and publishing the website so much easier.
 
-### Practical
+### Assignment
 For my startup business, I decided on the bread subscription box idea since the pet shop is categorized as an online shop and the assignment does not allow online shops. For this week’s practical, I used InfinityFree to host my Joomla website, I explored the dashboard and got started on my website.
 
 ### References

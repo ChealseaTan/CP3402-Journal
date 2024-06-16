@@ -9,9 +9,8 @@ Themes are pre-designed templates that display a website's overall look and aest
 
 The Plugins provide more functionality to the WordPress website. They can add new features, enhance the existing ones, and integrate third-party services. I explored a few of the available Plugins in the WordPress repository, which contained both free and premium plans, they even showed the ratings and popularity of the plugin.
 
-### Practical
+### Assignment
 I hosted my WordPress on the same site as my Joomla, which is InfinityFree. But there is a problem, the default page can be accessed, and it works fine, but when I start to modify the pages (adding new ones or editing the old ones) it is not being published properly, or it would not let me publish it, I’m not quite sure if it is because of the hosting side of the WordPress, I will attempt to work on it again, if it still causes an issue, I might change the hosting site.
-
 
 ### References
 - [WordPress Essential Training](https://www.linkedin.com/learning/wordpress-essential-training-22616273)
